@@ -1,0 +1,8 @@
+{
+    "gitdoc.enabled": false,
+    "gitdoc.commitValidationLevel": "none",
+    "gitdoc.autoPushDelay": 300000,
+    "gitdoc.autoCommitDelay": 30000,
+    "gitdoc.pullOnOpen": true,
+    "gitdoc.timeZone": "America/Edmonton"
+}

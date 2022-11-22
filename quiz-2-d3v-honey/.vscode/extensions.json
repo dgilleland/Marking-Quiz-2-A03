@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "vsls-contrib.codetour",
+        "vsls-contrib.gitdoc",
+        "ms-mssql.mssql"
+    ]
+}
